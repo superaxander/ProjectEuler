@@ -11,6 +11,7 @@ public class Main {
             case 2: run2.start(); break;
             case 3: run3.start(); break;
             case 4: run4.start(); break;
+            case 5: run5.start(); break;
         }
     }
 
