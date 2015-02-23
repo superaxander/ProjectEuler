@@ -12,6 +12,7 @@ public class Main {
             case 3: run3.start(); break;
             case 4: run4.start(); break;
             case 5: run5.start(); break;
+            case 6: run6.start(); break;
         }
     }
 
